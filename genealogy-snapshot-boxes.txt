@@ -1,0 +1,50 @@
+<!-- ***** Genealogy Snapshot Box template code, added to ancestor blog posts ***** -->
+<!-- ***** 
+<!-- Start copying into raw HTML editor -->
+<div class="snapshot-box">
+<h2>Genealogy Snapshot</h2>
+<em><strong>Name:</em> [Insert Ancestor Name & Link]</strong><br />
+<em><strong>Parents:</strong></em> [Insert Father Name & Link] and [Insert Mother Name & Link]<br />
+<strong><em>Spouse:</em></strong> [Insert Spouse Name & Link]<br />
+<strong><em>Surnames:</em></strong> [Insert Surname & Link], [Insert Surname & Link], [Insert Surname & Link]<br />
+<em><strong>Relationship to CJRoots:</strong></em> [Insert Relationship to You]
+<ol>
+    <li>[Same person from Name field]</li>
+    <li>[Insert Ancestor Name & Link]</li>
+    <li>[Insert Ancestor Name & Link]</li>
+    <li><a title="Colleen" href="/people/bates-michael/">Michael</a></li>
+</ol>
+</div>
+<!-- End copying into raw HTML editor -->
+
+<!-- ***** Start of alphabetical ancestor code block library ***** -->
+<!-- ***** Organized undert surnamae headers for ease of search ***** -->
+
+<!-- ***** SNAPSHOTS: BATES ***** -->
+
+Bates, Michael (1948- )
+Snapshot for myself
+<!-- Start copying into raw HTML editor -->
+<div class="snapshot-box">
+<h2>Genealogy Snapshot</h2>
+<em><strong>Name:</em> [Insert Ancestor Name & Link]</strong><br />
+<em><strong>Parents:</strong></em> [Insert Father Name & Link] and [Insert Mother Name & Link]<br />
+<strong><em>Spouse:</em></strong> [Insert Spouse Name & Link]<br />
+<strong><em>Surnames:</em></strong> [Insert Surname & Link], [Insert Surname & Link], [Insert Surname & Link]<br />
+<em><strong>Relationship to CJRoots:</strong></em> [Insert Relationship to You]
+<ol>
+    <li>[Same person from Name field]</li>
+    <li>[Insert Ancestor Name & Link]</li>
+    <li>[Insert Ancestor Name & Link]</li>
+    <li><a title="Michael" href="/people/bates-michael/">Michael</a></li>
+</ol>
+</div>
+<!-- End copying into raw HTML editor -->
+
+<!-- ***** SNAPSHOTS: LOCKWOOD ***** -->
+
+<!-- ***** SNAPSHOTS: SPICER ***** -->
+
+<!-- ***** SNAPSHOTS: STEELE ***** -->
+
+<!-- ***** SNAPSHOTS: UDELL ***** -->
